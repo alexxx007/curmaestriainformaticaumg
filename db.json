@@ -1,0 +1,98 @@
+[
+ {
+   "Codigo": 92401,
+   "Nombre": "ETICA",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92402,
+   "Nombre": "ESTADISTICA COMPUTACIONAL",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92405,
+   "Nombre": "SISTEMAS DE INFORMACION",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92406,
+   "Nombre": "ALMACENAMIENTO Y ACCESO DE INFORMACION",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92408,
+   "Nombre": "AUDITORIA DE SISTEMAS",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92409,
+   "Nombre": "SEMINARIO DE INVESTIGACION",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92410,
+   "Nombre": "PROGRAMACION PERL Y JAVA",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92502,
+   "Nombre": "INTRODUCCION A LA TELEMATICA",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92503,
+   "Nombre": "INTELIGENCIA ARTIFICIAL",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92603,
+   "Nombre": "ANALISIS Y EVALUACION DE PROYECTOS",
+   "Creditos": 5,
+   "ciclo": 1
+ },
+ {
+   "Codigo": 92501,
+   "Nombre": "CONTABILIDAD BANCARIA (ORIENT. A PROCESOS AUTO. DE REGISTRO)",
+   "Creditos": 5,
+   "ciclo": 2
+ },
+ {
+   "Codigo": 92504,
+   "Nombre": "INTRANET, Y APLICACIONES AVANZADAS",
+   "Creditos": 5,
+   "ciclo": 2
+ },
+ {
+   "Codigo": 92505,
+   "Nombre": "CLIENTE-SERVIDOR RIESGOS Y SEGURIDAD DE DATOS",
+   "Creditos": 5,
+   "ciclo": 2
+ },
+ {
+   "Codigo": 92604,
+   "Nombre": "PROGRAMACION AVANZADA EN JAVA",
+   "Creditos": 5,
+   "ciclo": 3
+ },
+ {
+   "Codigo": 92605,
+   "Nombre": "SEGURIDAD EN REDES (TCP/IP) Y SEGURIDAD DE DATOS",
+   "Creditos": 5,
+   "ciclo": 3
+ },
+ {
+   "Codigo": 92606,
+   "Nombre": "ADMINISTRACION DE WEBSITE Y SISTEMAS DE INFORMACION",
+   "Creditos": 5,
+   "ciclo": 3
+ }
+]
